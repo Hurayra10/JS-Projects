@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.bg-img{
+    background-image: url("one.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
+    width: 100%;
+}
+
+
+
+.navbar{
+    background-color: red;
+    text-align: center;
+    padding: 20px;
+    position:fixed;
+    width: 100vw;
+    
+
+}
+
+
+.navbar A{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+
+.after-scroll-navbar{
+
+    background-color: rgb(145, 255, 0);
+  
+}
+
+
+
+
+
+
+
+
+
+
