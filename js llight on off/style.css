@@ -1,0 +1,37 @@
+.title{
+    text-align: center;
+}
+#on{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: 1.4rem;
+}
+#off{
+    background-color: rgb(25, 0, 255);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: 1.4rem;
+}
+.btn{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
