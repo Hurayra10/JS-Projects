@@ -15,9 +15,10 @@ var count = 0;
 var project= setInterval(project, 10);
 
 function project(){
-    num1.innerHTML= count;
     count ++;
-    if(count== 201){
+    num1.innerHTML= count;
+  
+    if(count== 200){
         clearInterval(project);
     }
 };
@@ -27,9 +28,10 @@ var count2 = 0;
 var project2= setInterval(project2, 10);
 
 function project2(){
-    num2.innerHTML= count2;
     count2 ++;
-    if(count2 == 101){
+    num2.innerHTML= count2;
+   
+    if(count2 == 100){
         clearInterval(project2)
     }
 };
@@ -40,9 +42,10 @@ var count3 = 0;
 var project3= setInterval(project3, 10);
 
 function project3(){
-    num3.innerHTML= count3;
     count3 ++;
-    if(count3 == 51){
+    num3.innerHTML= count3;
+   
+    if(count3 == 50){
         clearInterval(project3)
     }
 };
